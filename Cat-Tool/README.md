@@ -53,4 +53,4 @@ cat input.txt | ccat -n
 
 ## Acknowledgments
 
-This application was inspired by a challenge provided by [Coding Challenges](https://codingchallenges.fyi/).
+This application was inspired by a challenge provided by [Coding Challenges](https://codingchallenges.fyi/challenges/challenge-cat).
